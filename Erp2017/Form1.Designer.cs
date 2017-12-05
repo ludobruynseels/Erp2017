@@ -48,7 +48,7 @@
             this.ClientSize = new System.Drawing.Size(922, 261);
             this.Controls.Add(this.dgCustomers);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "ERP application";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgCustomers)).EndInit();
             this.ResumeLayout(false);
